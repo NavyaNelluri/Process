@@ -53,7 +53,7 @@ This procedure applies to all software development projects within the organizat
 - **Objective**: Preserve all design-related documents for future reference.
 - **Steps**:
   1. **Document Storage**:
-      - Store all design documents in a version-controlled repository (e.g., GitHub, Bitbucket).
+      - Store all design documents in a version-controlled repository (e.g., GitHub).
   2. **Access Control**:
       - Ensure only authorized personnel have access to design documents.
   3. **Retention Period**:
@@ -88,8 +88,8 @@ This procedure applies to all software development projects within the organizat
       - Code must pass all automated tests.
       - All review comments must be addressed.
   4. **Tools**:
-      - GitHub or Bitbucket for pull requests.
-      - Code review tools (e.g., Crucible).
+      - GitHub for pull requests.
+      - Code review tools.
 
 #### 2.6 Archive and Perform a Test Plan to Ensure High Code Quality
 
