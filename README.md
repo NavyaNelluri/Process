@@ -7,10 +7,10 @@ To define a standardized procedure for managing a software development project u
 This procedure applies to all software development projects within the organization.
 
 ## Roles and Responsibilities
-- **Scrum Master**: Facilitates agile ceremonies, removes impediments.
+- **Scrum Master**: Facilitates agile methodologies.
 - **Product Owner**: Manages product backlog, prioritizes stories.
-- **Development Team**: Delivers potentially shippable increments each sprint.
-- **Reviewers**: Participate in design and code reviews.
+- **Development Team**: Delivers each sprint providing few requirements at a time.
+- **Code Reviewers**: Participate in design and code reviews.
 
 ## Procedure
 
@@ -30,12 +30,11 @@ This procedure applies to all software development projects within the organizat
       - Document requirements as user stories in the project management tool (e.g., Jira).
   2. **Prioritize Stories**:
       - Rank stories based on business value and effort estimation.
-      - Use planning poker or T-shirt sizing for effort estimation.
   3. **Create Sprint Backlogs**:
       - Define sprint goals and select stories for the upcoming sprint.
   4. **Tools**:
       - Jira for backlog management.
-      - Confluence for documentation.
+      - Confluence for project technical documentation.
 
 #### 2.2 Execute the Project Backlog Using Agile Methodology
 
@@ -112,7 +111,7 @@ This procedure applies to all software development projects within the organizat
       - Retain test documentation for a minimum of 5 years.
   5. **Tools**:
       - Jenkins for CI/CD and test automation.
-      - Jira for defect tracking.
+      - Jira for bug tracking.
       - Confluence for test documentation.
 
 ### 3. Outputs
