@@ -6,6 +6,12 @@ To define a standardized procedure for managing a software development project u
 ## Scope
 This procedure applies to all software development projects within the organization.
 
+## Roles and Responsibilities
+- **Scrum Master**: Facilitates agile ceremonies, removes impediments.
+- **Product Owner**: Manages product backlog, prioritizes stories.
+- **Development Team**: Delivers potentially shippable increments each sprint.
+- **Reviewers**: Participate in design and code reviews.
+
 ## Procedure
 
 ### 1. Inputs
@@ -125,4 +131,5 @@ This procedure applies to all software development projects within the organizat
   - **Scrum Master**: Facilitates agile ceremonies, removes impediments.
   - **Product Owner**: Manages product backlog, prioritizes stories.
   - **Development Team**: Delivers potentially shippable increments each sprint.
+
 
